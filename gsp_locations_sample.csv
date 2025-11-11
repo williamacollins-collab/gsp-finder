@@ -1,0 +1,31 @@
+GSP_Name,DNO,Latitude,Longitude,Fault_Level_Status,Fault_Level_Headroom_kA
+Bramford,UK Power Networks,52.085,1.091,Restricted,2.5
+Bolney,UK Power Networks,50.99,-0.121,No Restriction,7.1
+Norwich Main,UK Power Networks,52.625,1.296,Zero Headroom,0
+Pelham,UK Power Networks,51.954,0.056,Restricted,1.8
+Rayleigh,UK Power Networks,51.578,0.604,No Restriction,5.6
+Wymondley,UK Power Networks,51.953,-0.243,Zero Headroom,0
+Melksham,National Grid Electricity Distribution,51.367,-2.145,No Restriction,6.8
+Iron Acton,National Grid Electricity Distribution,51.544,-2.476,Zero Headroom,0
+Upper Boat,National Grid Electricity Distribution,51.559,-3.289,Restricted,1.2
+Tewkesbury,National Grid Electricity Distribution,51.988,-2.152,Restricted,2.7
+Walpole,National Grid Electricity Distribution,52.777,0.148,No Restriction,8.4
+Aberystwyth,National Grid Electricity Distribution,52.414,-4.081,No Restriction,6
+Shrewsbury,National Grid Electricity Distribution,52.71,-2.752,Restricted,3.4
+Llandrindod Wells,National Grid Electricity Distribution,52.24,-3.379,No Restriction,7
+Llanfihangel,National Grid Electricity Distribution,52.566,-3.852,Zero Headroom,0
+Pentir,SP Energy Networks,53.214,-4.184,No Restriction,9.2
+Deeside,SP Energy Networks,53.259,-3.054,Restricted,2.3
+Legacy,SP Energy Networks,53.037,-3.062,Zero Headroom,0
+Connah's Quay,SP Energy Networks,53.218,-3.063,Restricted,1.5
+Birkenhead,SP Energy Networks,53.383,-3.023,No Restriction,5.9
+Whitchurch,SP Energy Networks,52.967,-2.683,Restricted,2.1
+East Claydon,SSEN,51.93,-0.92,Restricted,1
+Bicester,SSEN,51.904,-1.158,No Restriction,6.7
+Sundon,SSEN,51.949,-0.497,Zero Headroom,0
+Lovedean,SSEN,50.913,-1.043,Restricted,2.4
+Fleet,SSEN,51.281,-0.844,No Restriction,7.9
+Didcot,SSEN,51.622,-1.259,Restricted,1.9
+Marchwood,SSEN,50.852,-1.454,Zero Headroom,0
+Melksham North,National Grid Electricity Distribution,51.39,-2.135,No Restriction,8.1
+Rugby,National Grid Electricity Distribution,52.373,-1.26,Restricted,2.2
