@@ -1,0 +1,31 @@
+BSP_Name,DNO,Latitude,Longitude,Voltage_kV
+Bramford BSP,UK Power Networks,52.08,1.09,132
+Bolney BSP,UK Power Networks,51,-0.13,132
+Norwich BSP,UK Power Networks,52.63,1.3,132
+Pelham BSP,UK Power Networks,51.96,0.06,132
+Rayleigh BSP,UK Power Networks,51.58,0.6,132
+Melksham BSP,National Grid Electricity Distribution,51.37,-2.15,132
+Iron Acton BSP,National Grid Electricity Distribution,51.55,-2.48,132
+Tewkesbury BSP,National Grid Electricity Distribution,51.99,-2.16,132
+Swansea North BSP,National Grid Electricity Distribution,51.69,-3.94,132
+Shrewsbury BSP,National Grid Electricity Distribution,52.7,-2.75,132
+Pentir BSP,SP Energy Networks,53.22,-4.18,132
+Deeside BSP,SP Energy Networks,53.26,-3.06,132
+Legacy BSP,SP Energy Networks,53.04,-3.06,132
+Birkenhead BSP,SP Energy Networks,53.38,-3.02,132
+Whitchurch BSP,SP Energy Networks,52.97,-2.68,132
+East Claydon BSP,SSEN,51.93,-0.93,132
+Bicester BSP,SSEN,51.9,-1.16,132
+Sundon BSP,SSEN,51.95,-0.5,132
+Lovedean BSP,SSEN,50.91,-1.05,132
+Didcot BSP,SSEN,51.62,-1.26,132
+Marchwood BSP,SSEN,50.85,-1.46,132
+Yeovil BSP,National Grid Electricity Distribution,50.95,-2.63,132
+Taunton BSP,National Grid Electricity Distribution,51.02,-3.1,132
+Hereford BSP,National Grid Electricity Distribution,52.06,-2.72,132
+Gloucester BSP,National Grid Electricity Distribution,51.88,-2.23,132
+Wrexham BSP,SP Energy Networks,53.045,-2.99,132
+Flint BSP,SP Energy Networks,53.25,-3.15,132
+Bangor BSP,SP Energy Networks,53.22,-4.11,132
+Newport BSP,National Grid Electricity Distribution,51.58,-2.98,132
+Cardiff East BSP,National Grid Electricity Distribution,51.5,-3.13,132
