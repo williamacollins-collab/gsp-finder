@@ -3,9 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import subprocess, json, os
-from openpyxl import load_workbook
 
-TEMPLATE_XLSX = "BESS_Screening_Model_final.xlsx"
 
 def run_curl_and_get_datapackage():
     curl_cmd = [
